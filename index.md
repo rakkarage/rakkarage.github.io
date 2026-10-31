@@ -1,6 +1,6 @@
 # David Alexander Henry
 
-Toronto, ON | <davidahenry@gmail.com> | [github.com/rakkarage](https://github.com/rakkarage) | [henrysoftware.itch.io](https://henrysoftware.itch.io)
+Toronto, ON | <davidahenry@gmail.com> | [github.com/rakkarage](https://github.com/rakkarage) | [curseforge.com](https://www.curseforge.com/members/rakkarage/projects) | [henrysoftware.itch.io](https://henrysoftware.itch.io)
 
 ## Summary
 
