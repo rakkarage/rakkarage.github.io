@@ -64,4 +64,4 @@ Software engineer with 20+ years of experience building developer tools, game sy
 
 ## Community
 
-**Volunteer, Neighbourhood Link** | Toronto, ON | 2017 - Present. Help clients at the food bank and serve community meals.
+**Volunteer, Neighbourhood Link** | Toronto, ON | 2017 - 2020. Supported food-bank intake and membership recordkeeping; served community meals.
