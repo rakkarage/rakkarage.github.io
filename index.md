@@ -54,13 +54,9 @@ Software engineer with 20+ years of experience building developer tools, game sy
 - [NameGen](https://github.com/rakkarage/NameGen): random name generator, Objective-C (19 stars)
 - [PixelLevel](https://github.com/rakkarage/PixelLevel): Godot dungeon sprite pack with playable demo (16 stars)
 
-## Education & Certifications
+## Education
 
 **B.S. Computer Information Systems, Cum Laude**, DeVry Institute of Technology, 1996
-
-**Unity Certified Programmer**, Unity, 2018
-
-**Microsoft Certified Solutions Associate**, MicroSkills, 2010
 
 ## Community
 
