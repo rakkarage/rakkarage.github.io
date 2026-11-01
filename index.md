@@ -1,6 +1,6 @@
 # David Alexander Henry
 
-Toronto, ON | <davidahenry@gmail.com> | [github.com/rakkarage](https://github.com/rakkarage) | [curseforge.com](https://www.curseforge.com/members/rakkarage/projects) | [henrysoftware.itch.io](https://henrysoftware.itch.io)
+Toronto, ON | <davidahenry@gmail.com> | [github.com/rakkarage](https://github.com/rakkarage) | [curseforge.com](https://www.curseforge.com/members/rakkarage/projects) | [henrysoftware.itch.io](https://henrysoftware.itch.io) | [stackoverflow.com](https://stackoverflow.com/users/403681/rakka-rage)
 
 ## Summary
 
@@ -59,5 +59,7 @@ Software engineer with 20+ years of experience building developer tools, game sy
 **B.S. Computer Information Systems, Cum Laude**, DeVry Institute of Technology, 1996
 
 ## Community
+
+**Stack Overflow contributor.** 21K reputation and 2.3M people reached. [Profile](https://stackoverflow.com/users/403681/rakka-rage)
 
 **Volunteer, Neighbourhood Link** | Toronto, ON | 2017 - 2020. Supported food-bank intake and membership recordkeeping; served community meals.
