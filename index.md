@@ -60,5 +60,5 @@ Software engineer with 20+ years of experience building developer tools, game sy
 
 ## Community
 
-- **Stack Overflow contributor** — 21K reputation; contributions reached 2.3M people. [Profile](https://stackoverflow.com/users/403681/rakka-rage)
-- **Neighbourhood Link volunteer** | Toronto, ON | 2017 - 2020 — Supported food-bank intake and membership recordkeeping; served community meals.
+- **Stack Overflow contributor** — 21K reputation; contributions have reached 2.3M people. [Profile](https://stackoverflow.com/users/403681/rakka-rage)
+- **Neighbourhood Link volunteer** — Volunteered in Toronto from 2017 to 2020, supporting food-bank intake and membership recordkeeping and serving community meals.
