@@ -43,7 +43,7 @@ Software engineer with 20+ years of experience building developer tools, game sy
 
 ## Open Source
 
-**Godot Engine contributor.** Identified the missing Spring/Berp tween transition modes, submitted [proposal #4212](https://github.com/godotengine/godot-proposals/issues/4212) with working demos, and implemented [PR #58999](https://github.com/godotengine/godot/pull/58999). Further merged PRs: [see list](https://github.com/godotengine/godot/pulls?q=is%3Apr+is%3Amerged+author%3Arakkarage).
+**Godot Engine contributor. (C++)** Identified the missing Spring/Berp tween transition modes, submitted [proposal #4212](https://github.com/godotengine/godot-proposals/issues/4212) with working demos, and implemented [PR #58999](https://github.com/godotengine/godot/pull/58999). Further merged PRs: [see list](https://github.com/godotengine/godot/pulls?q=is%3Apr+is%3Amerged+author%3Arakkarage).
 
 **Published tools:**
 
