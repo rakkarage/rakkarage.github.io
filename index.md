@@ -20,14 +20,14 @@ Software engineer with 20+ years of experience building developer tools, game sy
 
 **Independent Developer, Henry Software** | Toronto, ON | 2012 - Present
 
-- Design, build, and sell game development tools and assets for Unity (C#) and Godot (GDScript), published on itch.io and GitHub.
+- Design, build, and sell game development tools and assets for Unity (C#) and Godot (GDScript), published on itch.io and GitHub. [henrysoftware.itch.io](https://henrysoftware.itch.io)
 - 133K+ downloads, 3,470 paid transactions, and $21K gross revenue; 2,569 store followers.
 - Maintain 155 public repositories; six published tools have earned 150+ GitHub stars combined.
 - Ship cross-engine tooling spanning Unity, Godot, and Cocos2d (Objective-C).
 
 **World of Warcraft Addon Developer** | CurseForge | 2022 - Present
 
-- Build and maintain UI addons in Lua and XML using WoW's event-driven API, updating them across game patches. 30K+ downloads on CurseForge since 2022.
+- Build and maintain UI addons in Lua and XML using WoW's event-driven API, updating them across game patches. [30K+ downloads on CurseForge since 2022](https://www.curseforge.com/wow/addons/ttom)
 
 **ComfyUI Custom Node Developer** | 2025 - Present
 
@@ -53,6 +53,7 @@ Software engineer with 20+ years of experience building developer tools, game sy
 - [PixelInterface](https://github.com/rakkarage/PixelInterface): Godot pixel-perfect UI toolkit (25 stars)
 - [NameGen](https://github.com/rakkarage/NameGen): random name generator, Objective-C (19 stars)
 - [PixelLevel](https://github.com/rakkarage/PixelLevel): Godot dungeon sprite pack with playable demo (16 stars)
+- [auto](https://github.com/rakkarage/auto): GitHub Actions workflow to build and deploy Godot projects
 
 ## Education
 
